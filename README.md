@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
@@ -62,90 +62,90 @@ The following hosted and cloud-native telemetry platforms ingest, synchronize, a
 
 ## 💻 Open-Source GitHub Projects
 
-Explore verified open-source companion apps, custom smartwatch firmwares, self-hosted health telemetry databases, and biometric signal processing toolkits. Sorted descending by GitHub star count. ⭐
+Explore verified open-source companion apps, custom smartwatch firmwares, self-hosted health telemetry databases, and biometric signal processing toolkits. Sorted descending by GitHub Stars_Count. ⭐
 
-- **[Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge)** [![GitHub Stars](https://img.shields.io/github/stars/Freeyourgadget/Gadgetbridge?style=social&color=white)](https://github.com/Freeyourgadget/Gadgetbridge/stargazers)  
+- **[Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge)** [![GitHub_Stars](https://img.shields.io/github/stars/Freeyourgadget/Gadgetbridge?style=social&color=white)](https://github.com/Freeyourgadget/Gadgetbridge/stargazers)  
   Android companion app for Pebble, Mi Band, Amazfit, PineTime, and Bangle.js supporting offline telemetry.
 
-- **[Wanderer](https://github.com/Flomp/wanderer)** [![GitHub Stars](https://img.shields.io/github/stars/Flomp/wanderer?style=social&color=white)](https://github.com/Flomp/wanderer/stargazers)  
+- **[Wanderer](https://github.com/Flomp/wanderer)** [![GitHub_Stars](https://img.shields.io/github/stars/Flomp/wanderer?style=social&color=white)](https://github.com/Flomp/wanderer/stargazers)  
   Self-hosted trail database and wearable GPS/biometric activity archive built with Go, SvelteKit, and PocketBase.
 
-- **[ZSWatch](https://github.com/ZSWatch/ZSWatch)** [![GitHub Stars](https://img.shields.io/github/stars/ZSWatch/ZSWatch?style=social&color=white)](https://github.com/ZSWatch/ZSWatch/stargazers)  
+- **[ZSWatch](https://github.com/ZSWatch/ZSWatch)** [![GitHub_Stars](https://img.shields.io/github/stars/ZSWatch/ZSWatch?style=social&color=white)](https://github.com/ZSWatch/ZSWatch/stargazers)  
   Open-source Zephyr RTOS-based Nordic nRF5340 dual-core smartwatch with BLE telemetry and Gadgetbridge integration.
 
-- **[InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)** [![GitHub Stars](https://img.shields.io/github/stars/InfiniTimeOrg/InfiniTime?style=social&color=white)](https://github.com/InfiniTimeOrg/InfiniTime/stargazers)  
+- **[InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)** [![GitHub_Stars](https://img.shields.io/github/stars/InfiniTimeOrg/InfiniTime?style=social&color=white)](https://github.com/InfiniTimeOrg/InfiniTime/stargazers)  
   Modern C++ open-source smartwatch firmware for Pine64 PineTime with BLE heart rate and activity metrics.
 
-- **[GarminDB](https://github.com/tcgoetz/GarminDB)** [![GitHub Stars](https://img.shields.io/github/stars/tcgoetz/GarminDB?style=social&color=white)](https://github.com/tcgoetz/GarminDB/stargazers)  
+- **[GarminDB](https://github.com/tcgoetz/GarminDB)** [![GitHub_Stars](https://img.shields.io/github/stars/tcgoetz/GarminDB?style=social&color=white)](https://github.com/tcgoetz/GarminDB/stargazers)  
   Python tools for downloading and syncing Garmin Connect telemetry, sleep, RHR, and FIT files into local SQLite DB.
 
-- **[python-garminconnect](https://github.com/cyberjunky/python-garminconnect)** [![GitHub Stars](https://img.shields.io/github/stars/cyberjunky/python-garminconnect?style=social&color=white)](https://github.com/cyberjunky/python-garminconnect/stargazers)  
+- **[python-garminconnect](https://github.com/cyberjunky/python-garminconnect)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberjunky/python-garminconnect?style=social&color=white)](https://github.com/cyberjunky/python-garminconnect/stargazers)  
   Python API wrapper for programmatically retrieving biometric telemetry, HRV, sleep, and workouts from Garmin Connect.
 
-- **[Watchy](https://github.com/sqfmi/Watchy)** [![GitHub Stars](https://img.shields.io/github/stars/sqfmi/Watchy?style=social&color=white)](https://github.com/sqfmi/Watchy/stargazers)  
+- **[Watchy](https://github.com/sqfmi/Watchy)** [![GitHub_Stars](https://img.shields.io/github/stars/sqfmi/Watchy?style=social&color=white)](https://github.com/sqfmi/Watchy/stargazers)  
   Open-source E-Ink ESP32 smartwatch platform with customizable Arduino/C++ firmware and sensor telemetry.
 
-- **[Open Wearables](https://github.com/the-momentum/open-wearables)** [![GitHub Stars](https://img.shields.io/github/stars/the-momentum/open-wearables?style=social&color=white)](https://github.com/the-momentum/open-wearables/stargazers)  
+- **[Open Wearables](https://github.com/the-momentum/open-wearables)** [![GitHub_Stars](https://img.shields.io/github/stars/the-momentum/open-wearables?style=social&color=white)](https://github.com/the-momentum/open-wearables/stargazers)  
   Self-hosted unified wearable telemetry platform and developer API aggregating Garmin, Apple Health, and WHOOP.
 
-- **[openScale](https://github.com/oliexdev/openScale)** [![GitHub Stars](https://img.shields.io/github/stars/oliexdev/openScale?style=social&color=white)](https://github.com/oliexdev/openScale/stargazers)  
+- **[openScale](https://github.com/oliexdev/openScale)** [![GitHub_Stars](https://img.shields.io/github/stars/oliexdev/openScale?style=social&color=white)](https://github.com/oliexdev/openScale/stargazers)  
   Android open-source health and body composition logging app for BLE smart scales and diagnostic monitors.
 
-- **[NeuroKit2](https://github.com/neuropsychology/NeuroKit)** [![GitHub Stars](https://img.shields.io/github/stars/neuropsychology/NeuroKit?style=social&color=white)](https://github.com/neuropsychology/NeuroKit/stargazers)  
+- **[NeuroKit2](https://github.com/neuropsychology/NeuroKit)** [![GitHub_Stars](https://img.shields.io/github/stars/neuropsychology/NeuroKit?style=social&color=white)](https://github.com/neuropsychology/NeuroKit/stargazers)  
   Comprehensive Python toolbox for neurophysiological and wearable biosignal processing (ECG, PPG, EDA, EMG, HRV).
 
-- **[Endurain](https://github.com/joaovitoriasilva/endurain)** [![GitHub Stars](https://img.shields.io/github/stars/joaovitoriasilva/endurain?style=social&color=white)](https://github.com/joaovitoriasilva/endurain/stargazers)  
+- **[Endurain](https://github.com/joaovitoriasilva/endurain)** [![GitHub_Stars](https://img.shields.io/github/stars/joaovitoriasilva/endurain?style=social&color=white)](https://github.com/joaovitoriasilva/endurain/stargazers)  
   Self-hosted fitness tracking dashboard syncing telemetry, activities, and metrics from Garmin Connect and Strava.
 
-- **[GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah)** [![GitHub Stars](https://img.shields.io/github/stars/GoldenCheetah/GoldenCheetah?style=social&color=white)](https://github.com/GoldenCheetah/GoldenCheetah/stargazers)  
+- **[GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah)** [![GitHub_Stars](https://img.shields.io/github/stars/GoldenCheetah/GoldenCheetah?style=social&color=white)](https://github.com/GoldenCheetah/GoldenCheetah/stargazers)  
   Desktop performance analysis and physiological telemetry software parsing FIT, TCX, and GPX files.
 
-- **[BrainFlow](https://github.com/brainflow-dev/brainflow)** [![GitHub Stars](https://img.shields.io/github/stars/brainflow-dev/brainflow?style=social&color=white)](https://github.com/brainflow-dev/brainflow/stargazers)  
+- **[BrainFlow](https://github.com/brainflow-dev/brainflow)** [![GitHub_Stars](https://img.shields.io/github/stars/brainflow-dev/brainflow?style=social&color=white)](https://github.com/brainflow-dev/brainflow/stargazers)  
   C++/Python/Rust biosensor data acquisition library for EEG, EMG, ECG, and PPG wearable telemetry.
 
-- **[OpenTracks](https://github.com/OpenTracksApp/OpenTracks)** [![GitHub Stars](https://img.shields.io/github/stars/OpenTracksApp/OpenTracks?style=social&color=white)](https://github.com/OpenTracksApp/OpenTracks/stargazers)  
+- **[OpenTracks](https://github.com/OpenTracksApp/OpenTracks)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenTracksApp/OpenTracks?style=social&color=white)](https://github.com/OpenTracksApp/OpenTracks/stargazers)  
   Privacy-respecting open-source Android sport and GPS activity tracker supporting Bluetooth LE sensors (heart rate, cadence, power).
 
-- **[FitTrackee](https://github.com/SamR1/FitTrackee)** [![GitHub Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=social&color=white)](https://github.com/SamR1/FitTrackee/stargazers)  
+- **[FitTrackee](https://github.com/SamR1/FitTrackee)** [![GitHub_Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=social&color=white)](https://github.com/SamR1/FitTrackee/stargazers)  
   Self-hosted outdoor workout and biometric telemetry tracker built with Python and React for private GPX/activity storage.
 
-- **[HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python)** [![GitHub Stars](https://img.shields.io/github/stars/paulvangentcom/heartrate_analysis_python?style=social&color=white)](https://github.com/paulvangentcom/heartrate_analysis_python/stargazers)  
+- **[HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python)** [![GitHub_Stars](https://img.shields.io/github/stars/paulvangentcom/heartrate_analysis_python?style=social&color=white)](https://github.com/paulvangentcom/heartrate_analysis_python/stargazers)  
   Python Heart Rate Variability (HRV) and PPG/ECG signal analysis toolkit designed for wearable sensor data.
 
-- **[AsteroidOS](https://github.com/AsteroidOS/asteroid)** [![GitHub Stars](https://img.shields.io/github/stars/AsteroidOS/asteroid?style=social&color=white)](https://github.com/AsteroidOS/asteroid/stargazers)  
+- **[AsteroidOS](https://github.com/AsteroidOS/asteroid)** [![GitHub_Stars](https://img.shields.io/github/stars/AsteroidOS/asteroid?style=social&color=white)](https://github.com/AsteroidOS/asteroid/stargazers)  
   Open-source Linux operating system for smartwatches built with Qt/Wayland and embedded sensor drivers.
 
-- **[Wasp-os](https://github.com/daniel-thompson/wasp-os)** [![GitHub Stars](https://img.shields.io/github/stars/daniel-thompson/wasp-os?style=social&color=white)](https://github.com/daniel-thompson/wasp-os/stargazers)  
+- **[Wasp-os](https://github.com/daniel-thompson/wasp-os)** [![GitHub_Stars](https://img.shields.io/github/stars/daniel-thompson/wasp-os?style=social&color=white)](https://github.com/daniel-thompson/wasp-os/stargazers)  
   MicroPython-based operating system and firmware for Nordic nRF52832 / nRF52840 smartwatches like PineTime.
 
-- **[python-fitparse](https://github.com/dtcooper/python-fitparse)** [![GitHub Stars](https://img.shields.io/github/stars/dtcooper/python-fitparse?style=social&color=white)](https://github.com/dtcooper/python-fitparse/stargazers)  
+- **[python-fitparse](https://github.com/dtcooper/python-fitparse)** [![GitHub_Stars](https://img.shields.io/github/stars/dtcooper/python-fitparse?style=social&color=white)](https://github.com/dtcooper/python-fitparse/stargazers)  
   Python library to parse ANT+/Garmin FIT telemetry files from fitness and wearable devices.
 
-- **[HA-Garmin-Connect](https://github.com/cyberjunky/home-assistant-garmin_connect)** [![GitHub Stars](https://img.shields.io/github/stars/cyberjunky/home-assistant-garmin_connect?style=social&color=white)](https://github.com/cyberjunky/home-assistant-garmin_connect/stargazers)  
+- **[HA-Garmin-Connect](https://github.com/cyberjunky/home-assistant-garmin_connect)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberjunky/home-assistant-garmin_connect?style=social&color=white)](https://github.com/cyberjunky/home-assistant-garmin_connect/stargazers)  
   Home Assistant integration component exposing health, HRV, sleep, and daily metrics from Garmin Connect.
 
-- **[Apple-Health-Grafana](https://github.com/k0rventen/apple-health-grafana)** [![GitHub Stars](https://img.shields.io/github/stars/k0rventen/apple-health-grafana?style=social&color=white)](https://github.com/k0rventen/apple-health-grafana/stargazers)  
+- **[Apple-Health-Grafana](https://github.com/k0rventen/apple-health-grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/k0rventen/apple-health-grafana?style=social&color=white)](https://github.com/k0rventen/apple-health-grafana/stargazers)  
   Self-hosted Dockerized pipeline parsing Apple Health export XML/JSON into InfluxDB and Grafana telemetry dashboards.
 
-- **[BangleApps](https://github.com/espruino/BangleApps)** [![GitHub Stars](https://img.shields.io/github/stars/espruino/BangleApps?style=social&color=white)](https://github.com/espruino/BangleApps/stargazers)  
+- **[BangleApps](https://github.com/espruino/BangleApps)** [![GitHub_Stars](https://img.shields.io/github/stars/espruino/BangleApps?style=social&color=white)](https://github.com/espruino/BangleApps/stargazers)  
   Modular JavaScript open-source smartwatch application ecosystem and firmware loader for Bangle.js.
 
-- **[GarminExport](https://github.com/petergardfjall/garminexport)** [![GitHub Stars](https://img.shields.io/github/stars/petergardfjall/garminexport?style=social&color=white)](https://github.com/petergardfjall/garminexport/stargazers)  
+- **[GarminExport](https://github.com/petergardfjall/garminexport)** [![GitHub_Stars](https://img.shields.io/github/stars/petergardfjall/garminexport?style=social&color=white)](https://github.com/petergardfjall/garminexport/stargazers)  
   Open-source command-line backup tool and exporter for Garmin Connect health telemetry and activity records.
 
-- **[garmin-connect-export](https://github.com/pe-st/garmin-connect-export)** [![GitHub Stars](https://img.shields.io/github/stars/pe-st/garmin-connect-export?style=social&color=white)](https://github.com/pe-st/garmin-connect-export/stargazers)  
+- **[garmin-connect-export](https://github.com/pe-st/garmin-connect-export)** [![GitHub_Stars](https://img.shields.io/github/stars/pe-st/garmin-connect-export?style=social&color=white)](https://github.com/pe-st/garmin-connect-export/stargazers)  
   Automated Python utility to download daily biometric stats, health summaries, and GPX/FIT records from Garmin Connect.
 
-- **[AppleHealth-Analyzer](https://github.com/krumjahn/applehealth)** [![GitHub Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=social&color=white)](https://github.com/krumjahn/applehealth/stargazers)  
+- **[AppleHealth-Analyzer](https://github.com/krumjahn/applehealth)** [![GitHub_Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=social&color=white)](https://github.com/krumjahn/applehealth/stargazers)  
   Privacy-first Apple Health export telemetry analyzer supporting CSV/JSON exports, interactive charts, and local AI queries.
 
-- **[HealthLog](https://github.com/MBombeck/HealthLog)** [![GitHub Stars](https://img.shields.io/github/stars/MBombeck/HealthLog?style=social&color=white)](https://github.com/MBombeck/HealthLog/stargazers)  
+- **[HealthLog](https://github.com/MBombeck/HealthLog)** [![GitHub_Stars](https://img.shields.io/github/stars/MBombeck/HealthLog?style=social&color=white)](https://github.com/MBombeck/HealthLog/stargazers)  
   Self-hosted quantified-self dashboard synchronizing Apple Health, Garmin, and Oura Ring biometric metrics.
 
-- **[fitdecode](https://github.com/polyvertex/fitdecode)** [![GitHub Stars](https://img.shields.io/github/stars/polyvertex/fitdecode?style=social&color=white)](https://github.com/polyvertex/fitdecode/stargazers)  
+- **[fitdecode](https://github.com/polyvertex/fitdecode)** [![GitHub_Stars](https://img.shields.io/github/stars/polyvertex/fitdecode?style=social&color=white)](https://github.com/polyvertex/fitdecode/stargazers)  
   Modern Python library for parsing and decoding Garmin FIT telemetry streams and sensor files.
 
-- **[HealthyPi-v4](https://github.com/protocentral/protocentral_healthypi_v4)** [![GitHub Stars](https://img.shields.io/github/stars/protocentral/protocentral_healthypi_v4?style=social&color=white)](https://github.com/protocentral/protocentral_healthypi_v4/stargazers)  
+- **[HealthyPi-v4](https://github.com/protocentral/protocentral_healthypi_v4)** [![GitHub_Stars](https://img.shields.io/github/stars/protocentral/protocentral_healthypi_v4?style=social&color=white)](https://github.com/protocentral/protocentral_healthypi_v4/stargazers)  
   Open-source vital-signs monitoring hardware and firmware capturing ECG, PPG/SpO2, and body temperature telemetry.
 
 ---
