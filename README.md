@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry?style=social&color=white" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry?style=social&color=white" alt="GitHub Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > **A curated, privacy-first directory of Wearable Computing, Smartwatch Companion Platforms, Biometric Telemetry Ingestion APIs, Open Hardware Biosensors, and Quantified-Self Health Vaults.** 🚀
@@ -20,6 +22,8 @@
 - [🏢 SaaS & Hosted Telemetry Platforms](#-saas--hosted-telemetry-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -154,6 +158,22 @@ Contributions are warmly encouraged! To propose a new SaaS platform, open-source
 3. ✍️ Add the product or repository to the respective section in sorted order.
 4. 📝 Ensure official links, factual pricing, and valid GitHub URLs are provided.
 5. 🚀 Open a Pull Request with a short summary of the addition!
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using this curated directory! If you find this repository valuable, please consider supporting the project:
+- 🌟 **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite wearable projects, sensors, or biometric telemetry parsers.
+- 📢 **Share** with health-tech developers, sports scientists, and quantified-self communities.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and open-source curation on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Wearable-Computing-Health-Telemetry&type=date&legend=top-left)
 
 ---
 
